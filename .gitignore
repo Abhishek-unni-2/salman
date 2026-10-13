@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+*.MOV
+*.mov
+extracted_media/
+public_assets/
+Screenshot*.png
+.DS_Store
